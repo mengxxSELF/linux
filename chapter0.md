@@ -1,5 +1,6 @@
 # chapter0 linux 是什么
 
+![Brain](https://user-gold-cdn.xitu.io/2018/12/19/167c460d92c489f5?w=562&h=484&f=png&s=28831)
 
 ## 计算机组成结构
 
